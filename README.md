@@ -62,17 +62,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisaraCPrasanga&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaraCPrasanga&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thisaraCPrasanga&theme=default&hide_border=true" alt="GitHub streak">
-</p>
 
 ---
 
