@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thisara-prasanga-55bb77321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:thisaraprasanga.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -59,12 +58,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisaraCPrasanga&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thisaraCPrasanga&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaraCPrasanga&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=default&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=thisaraCPrasanga&theme=default&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
