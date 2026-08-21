@@ -63,7 +63,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=thisaraCPrasanga&show_icons=true&theme=tokyonight&hide_border=true)
----
 
 <p align="center"><i>Open to backend development opportunities — feel free to reach out.</i></p>
